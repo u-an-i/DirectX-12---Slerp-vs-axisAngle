@@ -1,0 +1,4 @@
+C:\Users\uani\Documents\VS Projects\WindowsProject1\x64\Release\D3D12\D3D12Core.dll
+C:\Users\uani\Documents\VS Projects\WindowsProject1\x64\Release\D3D12\D3D12Core.pdb
+C:\Users\uani\Documents\VS Projects\WindowsProject1\x64\Release\D3D12\D3D12SDKLayers.dll
+C:\Users\uani\Documents\VS Projects\WindowsProject1\x64\Release\D3D12\D3D12SDKLayers.pdb

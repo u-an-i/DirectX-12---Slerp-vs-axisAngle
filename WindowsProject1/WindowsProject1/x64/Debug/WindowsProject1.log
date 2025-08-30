@@ -1,0 +1,446 @@
+﻿cl : befehlszeile  warning D9025: "/sdl" wird durch "/GS-" überschrieben
+  WindowsProject1.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: "TpSetCallbackCleanupGroup": Zeiger oder Verweis auf eine potenziell auslösende Funktion, die an die Funktion 'extern "C"' unter -EHc übergeben wird. Ein nicht definiertes Verhalten kann auftreten, wenn diese Funktion eine Ausnahme auslöst.
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(2200,23): warning C4668: "NTDDI_WIN11_DT" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11423,22): warning C4668: "_WIN32_WINNT_WIN10_TH2" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11429,22): warning C4668: "_WIN32_WINNT_WIN10_RS1" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11434,22): warning C4668: "_WIN32_WINNT_WIN10_TH2" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11439,22): warning C4668: "_WIN32_WINNT_WIN10_TH2" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11446,22): warning C4668: "_WIN32_WINNT_WIN10_RS1" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11467,22): warning C4668: "_WIN32_WINNT_WIN10_TH2" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11473,22): warning C4668: "_WIN32_WINNT_WIN10_RS3" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11481,22): warning C4668: "_WIN32_WINNT_WIN10_RS4" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11485,22): warning C4668: "_WIN32_WINNT_WIN10_RS1" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11489,22): warning C4668: "_WIN32_WINNT_WIN10_RS4" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(11494,22): warning C4668: "_WIN32_WINNT_WIN10_RS1" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(16827,22): warning C4668: "_WIN32_WINNT_WIN10_RS3" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(16976,22): warning C4668: "_WIN32_WINNT_WIN10_RS4" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(16989,22): warning C4668: "_WIN32_WINNT_WIN10_RS4" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winioctl.h(17218,22): warning C4668: "_WIN32_WINNT_WIN10_RS1" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(1573,10): warning C4820: „D3D12_SO_DECLARATION_ENTRY“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SO_DECLARATION_ENTRY::Stream“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(1578,10): warning C4820: „D3D12_SO_DECLARATION_ENTRY“: Auffüllung von „1“ Bytes nach Datenmember  „D3D12_SO_DECLARATION_ENTRY::OutputSlot“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(1665,11): warning C4820: „D3D12_DEPTH_STENCIL_DESC“: Auffüllung von „2“ Bytes nach Datenmember  „D3D12_DEPTH_STENCIL_DESC::StencilWriteMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(1677,11): warning C4820: „D3D12_DEPTH_STENCIL_DESC1“: Auffüllung von „2“ Bytes nach Datenmember  „D3D12_DEPTH_STENCIL_DESC1::StencilWriteMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(1690,11): warning C4820: „D3D12_DEPTH_STENCILOP_DESC1“: Auffüllung von „2“ Bytes nach Datenmember  „D3D12_DEPTH_STENCILOP_DESC1::StencilWriteMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(1780,11): warning C4820: „D3D12_RENDER_TARGET_BLEND_DESC“: Auffüllung von „3“ Bytes nach Datenmember  „D3D12_RENDER_TARGET_BLEND_DESC::RenderTargetWriteMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2238,10): warning C4820: „D3D12_STREAM_OUTPUT_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_STREAM_OUTPUT_DESC::NumEntries“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2247,10): warning C4820: „D3D12_INPUT_LAYOUT_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_INPUT_LAYOUT_DESC::NumElements“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2293,30): warning C4820: „D3D12_GRAPHICS_PIPELINE_STATE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_GRAPHICS_PIPELINE_STATE_DESC::DepthStencilState“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2301,10): warning C4820: „D3D12_GRAPHICS_PIPELINE_STATE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_GRAPHICS_PIPELINE_STATE_DESC::NodeMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2303,32): warning C4820: „D3D12_GRAPHICS_PIPELINE_STATE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_GRAPHICS_PIPELINE_STATE_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2310,10): warning C4820: „D3D12_COMPUTE_PIPELINE_STATE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_COMPUTE_PIPELINE_STATE_DESC::NodeMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2312,32): warning C4820: „D3D12_COMPUTE_PIPELINE_STATE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_COMPUTE_PIPELINE_STATE_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2625,16): warning C4820: „D3D12_FEATURE_DATA_FEATURE_LEVELS“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_FEATURE_DATA_FEATURE_LEVELS::NumFeatureLevels“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2627,30): warning C4820: „D3D12_FEATURE_DATA_FEATURE_LEVELS“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_FEATURE_DATA_FEATURE_LEVELS::MaxSupportedFeatureLevel“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2671,11): warning C4820: „D3D12_FEATURE_DATA_FORMAT_INFO“: Auffüllung von „3“ Bytes nach Datenmember  „D3D12_FEATURE_DATA_FORMAT_INFO::PlaneCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(2839,16): warning C4820: „D3D12_FEATURE_DATA_QUERY_META_COMMAND“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_FEATURE_DATA_QUERY_META_COMMAND::NodeMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3083,27): warning C4820: „D3D12_HEAP_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_HEAP_DESC::Properties“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3085,22): warning C4820: „D3D12_HEAP_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_HEAP_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3141,30): warning C4820: „D3D12_RESOURCE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RESOURCE_DESC::Dimension“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3150,26): warning C4820: „D3D12_RESOURCE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RESOURCE_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3155,30): warning C4820: „D3D12_RESOURCE_DESC1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RESOURCE_DESC1::Dimension“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3171,11): warning C4820: „D3D12_DEPTH_STENCIL_VALUE“: Auffüllung von „3“ Bytes nach Datenmember  „D3D12_DEPTH_STENCIL_VALUE::Stencil“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3198,10): warning C4820: „D3D12_SUBRESOURCE_RANGE_UINT64“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SUBRESOURCE_RANGE_UINT64::Subresource“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3253,11): warning C4820: „D3D12_PACKED_MIP_INFO“: Auffüllung von „2“ Bytes nach Datenmember  „D3D12_PACKED_MIP_INFO::NumPackedMips“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3328,27): warning C4820: „D3D12_RESOURCE_TRANSITION_BARRIER“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RESOURCE_TRANSITION_BARRIER::StateAfter“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3375,33): warning C4820: „D3D12_PLACED_SUBRESOURCE_FOOTPRINT“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_PLACED_SUBRESOURCE_FOOTPRINT::Footprint“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3388,29): warning C4820: „D3D12_TEXTURE_COPY_LOCATION“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_TEXTURE_COPY_LOCATION::Type“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3429,10): warning C4820: „D3D12_VIEW_INSTANCING_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_VIEW_INSTANCING_DESC::ViewInstanceCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3431,33): warning C4820: „D3D12_VIEW_INSTANCING_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_VIEW_INSTANCING_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3468,28): warning C4820: „D3D12_BUFFER_SRV“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_BUFFER_SRV::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3565,10): warning C4820: „D3D12_SHADER_RESOURCE_VIEW_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SHADER_RESOURCE_VIEW_DESC::Shader4ComponentMapping“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3585,10): warning C4820: „D3D12_CONSTANT_BUFFER_VIEW_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_CONSTANT_BUFFER_VIEW_DESC::SizeInBytes“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3767,28): warning C4820: „D3D12_BUFFER_UAV“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_BUFFER_UAV::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(3848,10): warning C4820: „D3D12_BUFFER_RTV“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_BUFFER_RTV::NumElements“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4062,10): warning C4820: „D3D12_ROOT_DESCRIPTOR_TABLE“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_DESCRIPTOR_TABLE::NumDescriptorRanges“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4104,31): warning C4820: „D3D12_ROOT_PARAMETER“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_PARAMETER::ParameterType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4111,29): warning C4820: „D3D12_ROOT_PARAMETER“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_PARAMETER::ShaderVisibility“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4180,10): warning C4820: „D3D12_ROOT_SIGNATURE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC::NumParameters“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4182,10): warning C4820: „D3D12_ROOT_SIGNATURE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC::NumStaticSamplers“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4184,32): warning C4820: „D3D12_ROOT_SIGNATURE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4211,10): warning C4820: „D3D12_ROOT_DESCRIPTOR_TABLE1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_DESCRIPTOR_TABLE1::NumDescriptorRanges“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4234,31): warning C4820: „D3D12_ROOT_PARAMETER1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_PARAMETER1::ParameterType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4241,29): warning C4820: „D3D12_ROOT_PARAMETER1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_PARAMETER1::ShaderVisibility“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4246,10): warning C4820: „D3D12_ROOT_SIGNATURE_DESC1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC1::NumParameters“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4248,10): warning C4820: „D3D12_ROOT_SIGNATURE_DESC1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC1::NumStaticSamplers“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4250,32): warning C4820: „D3D12_ROOT_SIGNATURE_DESC1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC1::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4255,10): warning C4820: „D3D12_ROOT_SIGNATURE_DESC2“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC2::NumParameters“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4257,10): warning C4820: „D3D12_ROOT_SIGNATURE_DESC2“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC2::NumStaticSamplers“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4259,32): warning C4820: „D3D12_ROOT_SIGNATURE_DESC2“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_ROOT_SIGNATURE_DESC2::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4264,32): warning C4820: „D3D12_VERSIONED_ROOT_SIGNATURE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_VERSIONED_ROOT_SIGNATURE_DESC::Version“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4530,10): warning C4820: „D3D12_DISCARD_REGION“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DISCARD_REGION::NumRects“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(4718,10): warning C4820: „D3D12_COMMAND_SIGNATURE_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_COMMAND_SIGNATURE_DESC::NodeMask“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(8004,12): warning C4820: „D3D12_WRITEBUFFERIMMEDIATE_PARAMETER“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_WRITEBUFFERIMMEDIATE_PARAMETER::Value“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14167,10): warning C4820: „D3D12_NODE_ID“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_NODE_ID::ArrayIndex“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14174,10): warning C4820: „D3D12_WORK_GRAPH_MEMORY_REQUIREMENTS“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_WORK_GRAPH_MEMORY_REQUIREMENTS::SizeGranularityInBytes“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14724,32): warning C4820: „D3D12_STATE_SUBOBJECT“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_STATE_SUBOBJECT::Type“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14790,24): warning C4820: „D3D12_EXPORT_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_EXPORT_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14796,10): warning C4820: „D3D12_DXIL_LIBRARY_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DXIL_LIBRARY_DESC::NumExports“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14803,10): warning C4820: „D3D12_EXISTING_COLLECTION_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_EXISTING_COLLECTION_DESC::NumExports“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14810,10): warning C4820: „D3D12_SUBOBJECT_TO_EXPORTS_ASSOCIATION“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SUBOBJECT_TO_EXPORTS_ASSOCIATION::NumExports“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14817,10): warning C4820: „D3D12_DXIL_SUBOBJECT_TO_EXPORTS_ASSOCIATION“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DXIL_SUBOBJECT_TO_EXPORTS_ASSOCIATION::NumExports“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14831,26): warning C4820: „D3D12_HIT_GROUP_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_HIT_GROUP_DESC::Type“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14866,10): warning C4820: „D3D12_NODE_OUTPUT_OVERRIDES“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_NODE_OUTPUT_OVERRIDES::OutputIndex“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14881,10): warning C4820: „D3D12_BROADCASTING_LAUNCH_OVERRIDES“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_BROADCASTING_LAUNCH_OVERRIDES::NumOutputOverrides“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14891,10): warning C4820: „D3D12_COALESCING_LAUNCH_OVERRIDES“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_COALESCING_LAUNCH_OVERRIDES::NumOutputOverrides“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14901,10): warning C4820: „D3D12_THREAD_LAUNCH_OVERRIDES“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_THREAD_LAUNCH_OVERRIDES::NumOutputOverrides“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14911,10): warning C4820: „D3D12_COMMON_COMPUTE_NODE_OVERRIDES“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_COMMON_COMPUTE_NODE_OVERRIDES::NumOutputOverrides“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14928,31): warning C4820: „D3D12_SHADER_NODE“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SHADER_NODE::OverridesType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14974,39): warning C4820: „D3D12_PROGRAM_NODE“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_PROGRAM_NODE::OverridesType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(14991,21): warning C4820: „D3D12_NODE“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_NODE::NodeType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(15014,10): warning C4820: „D3D12_WORK_GRAPH_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_WORK_GRAPH_DESC::NumExplicitlyDefinedNodes“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(15021,10): warning C4820: „D3D12_GENERIC_PROGRAM_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_GENERIC_PROGRAM_DESC::NumExports“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(15023,10): warning C4820: „D3D12_GENERIC_PROGRAM_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_GENERIC_PROGRAM_DESC::NumSubobjects“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(15216,65): warning C4820: „D3D12_RAYTRACING_ACCELERATION_STRUCTURE_POSTBUILD_INFO_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RAYTRACING_ACCELERATION_STRUCTURE_POSTBUILD_INFO_DESC::InfoType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(15315,44): warning C4820: „D3D12_RAYTRACING_SERIALIZED_BLOCK“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RAYTRACING_SERIALIZED_BLOCK::Type“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(15355,10): warning C4820: „D3D12_RAYTRACING_OPACITY_MICROMAP_ARRAY_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RAYTRACING_OPACITY_MICROMAP_ARRAY_DESC::NumOmmHistogramEntries“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(15401,65): warning C4820: „D3D12_RAYTRACING_OPACITY_MICROMAP_ARRAY_POSTBUILD_INFO_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RAYTRACING_OPACITY_MICROMAP_ARRAY_POSTBUILD_INFO_DESC::InfoType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16339,12): warning C4820: „D3D12_AUTO_BREADCRUMB_NODE“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_AUTO_BREADCRUMB_NODE::BreadcrumbCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16347,10): warning C4820: „D3D12_DRED_BREADCRUMB_CONTEXT“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DRED_BREADCRUMB_CONTEXT::BreadcrumbIndex“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16359,10): warning C4820: „D3D12_AUTO_BREADCRUMB_NODE1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_AUTO_BREADCRUMB_NODE1::BreadcrumbCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16363,10): warning C4820: „D3D12_AUTO_BREADCRUMB_NODE1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_AUTO_BREADCRUMB_NODE1::BreadcrumbContextsCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16395,28): warning C4820: „D3D12_DEVICE_REMOVED_EXTENDED_DATA“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DEVICE_REMOVED_EXTENDED_DATA::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16437,32): warning C4820: „D3D12_DRED_ALLOCATION_NODE“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DRED_ALLOCATION_NODE::AllocationType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16445,32): warning C4820: „D3D12_DRED_ALLOCATION_NODE1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DRED_ALLOCATION_NODE1::AllocationType“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16495,33): warning C4820: „D3D12_DRED_PAGE_FAULT_OUTPUT2“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DRED_PAGE_FAULT_OUTPUT2::PageFaultFlags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16500,13): warning C4820: „D3D12_DEVICE_REMOVED_EXTENDED_DATA1“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DEVICE_REMOVED_EXTENDED_DATA1::DeviceRemovedReason“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16507,13): warning C4820: „D3D12_DEVICE_REMOVED_EXTENDED_DATA2“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DEVICE_REMOVED_EXTENDED_DATA2::DeviceRemovedReason“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16514,13): warning C4820: „D3D12_DEVICE_REMOVED_EXTENDED_DATA3“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DEVICE_REMOVED_EXTENDED_DATA3::DeviceRemovedReason“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16517,29): warning C4820: „D3D12_DEVICE_REMOVED_EXTENDED_DATA3“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DEVICE_REMOVED_EXTENDED_DATA3::DeviceState“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(16522,24): warning C4820: „D3D12_VERSIONED_DEVICE_REMOVED_EXTENDED_DATA“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_VERSIONED_DEVICE_REMOVED_EXTENDED_DATA::Version“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21428,10): warning C4820: „D3D12_RENDER_PASS_ENDING_ACCESS_RESOLVE_PARAMETERS“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RENDER_PASS_ENDING_ACCESS_RESOLVE_PARAMETERS::SubresourceCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21432,10): warning C4820: „D3D12_RENDER_PASS_ENDING_ACCESS_RESOLVE_PARAMETERS“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RENDER_PASS_ENDING_ACCESS_RESOLVE_PARAMETERS::PreserveResolveSource“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21443,42): warning C4820: „D3D12_RENDER_PASS_ENDING_ACCESS“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_RENDER_PASS_ENDING_ACCESS::Type“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21629,10): warning C4820: „D3D12_DISPATCH_RAYS_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DISPATCH_RAYS_DESC::Depth“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21643,32): warning C4820: „D3D12_SET_WORK_GRAPH_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SET_WORK_GRAPH_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21668,24): warning C4820: „D3D12_SET_PROGRAM_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SET_PROGRAM_DESC::Type“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21703,10): warning C4820: „D3D12_MULTI_NODE_CPU_INPUT“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_MULTI_NODE_CPU_INPUT::NumNodeInputs“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21710,10): warning C4820: „D3D12_MULTI_NODE_GPU_INPUT“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_MULTI_NODE_GPU_INPUT::NumNodeInputs“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(21716,25): warning C4820: „D3D12_DISPATCH_GRAPH_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_DISPATCH_GRAPH_DESC::Mode“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(22604,10): warning C4820: „D3D12_SHADER_CACHE_SESSION_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_SHADER_CACHE_SESSION_DESC::MaximumValueFileSizeBytes“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(22753,33): warning C4820: „D3D12_TEXTURE_BARRIER“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_TEXTURE_BARRIER::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12sdklayers.h(3381,22): warning C4820: „D3D12_MESSAGE“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_MESSAGE::ID“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12sdklayers.h(3388,10): warning C4820: „D3D12_INFO_QUEUE_FILTER_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_INFO_QUEUE_FILTER_DESC::NumCategories“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12sdklayers.h(3390,10): warning C4820: „D3D12_INFO_QUEUE_FILTER_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_INFO_QUEUE_FILTER_DESC::NumSeverities“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12sdklayers.h(3392,10): warning C4820: „D3D12_INFO_QUEUE_FILTER_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_INFO_QUEUE_FILTER_DESC::NumIDs“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(35993,19): warning C4820: „D3D12_FEATURE_DATA_COOPERATIVE_VECTOR“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_FEATURE_DATA_COOPERATIVE_VECTOR::MatrixVectorMulAddPropCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(35995,19): warning C4820: „D3D12_FEATURE_DATA_COOPERATIVE_VECTOR“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_FEATURE_DATA_COOPERATIVE_VECTOR::OuterProductAccumulatePropCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\packages\Microsoft.Direct3D.D3D12.1.717.1-preview\build\native\include\d3d12.h(35997,19): warning C4820: „D3D12_FEATURE_DATA_COOPERATIVE_VECTOR“: Auffüllung von „4“ Bytes nach Datenmember  „D3D12_FEATURE_DATA_COOPERATIVE_VECTOR::VectorAccumulatePropCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(181,10): warning C4820: „DXGI_FRAME_STATISTICS“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_FRAME_STATISTICS::SyncRefreshCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(188,9): warning C4820: „DXGI_MAPPED_RECT“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_MAPPED_RECT::Pitch“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(298,10): warning C4820: „DXGI_SWAP_CHAIN_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_SWAP_CHAIN_DESC::BufferCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(302,10): warning C4820: „DXGI_SWAP_CHAIN_DESC“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_SWAP_CHAIN_DESC::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi.h(2527,10): warning C4820: „DXGI_ADAPTER_DESC1“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_ADAPTER_DESC1::Flags“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi1_2.h(1284,10): warning C4820: „DXGI_PRESENT_PARAMETERS“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_PRESENT_PARAMETERS::DirtyRectsCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi1_2.h(2118,41): warning C4820: „DXGI_ADAPTER_DESC2“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_ADAPTER_DESC2::ComputePreemptionGranularity“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi1_3.h(1795,10): warning C4820: „DXGI_FRAME_STATISTICS_MEDIA“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_FRAME_STATISTICS_MEDIA::SyncRefreshCount“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi1_6.h(121,41): warning C4820: „DXGI_ADAPTER_DESC3“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_ADAPTER_DESC3::ComputePreemptionGranularity“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\dxgi1_6.h(399,11): warning C4820: „DXGI_OUTPUT_DESC1“: Auffüllung von „4“ Bytes nach Datenmember  „DXGI_OUTPUT_DESC1::MaxFullFrameLuminance“ hinzugefügt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\directxmath.h(22,127): warning C4668: "_MANAGED" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\directxmath.h(22,142): warning C4668: "_M_CEE" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\directxmath.h(289,100): warning C4668: "__arm__" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\directxmath.h(289,111): warning C4668: "__aarch64__" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
+  (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
+  
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(13,30): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(13,19): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(147,81): warning C5246: „m128_f32“: Die Initialisierung eines Teilobjekts muss in geschweifte Klammern eingeschlossen werden
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(166,33): warning C5246: „m128_f32“: Die Initialisierung eines Teilobjekts muss in geschweifte Klammern eingeschlossen werden
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(224,17): warning C4552: ">>": Ergebnis des Ausdrucks nicht verwendet.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(82,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(83,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(85,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(86,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(88,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(89,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
+LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /LTCG ignoriert.
+WindowsProject1.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /OPT:ICF ignoriert.
+  LINK : /LTCG wurde angegeben, es ist jedoch keine Codegenerierung erforderlich. Entfernen Sie /LTCG aus der Linkbefehlszeile, um die Linkerleistung zu erhöhen.
+  WindowsProject1.vcxproj -> C:\Users\uani\Documents\VS Projects\WindowsProject1\x64\Debug\WindowsProject1.exe
