@@ -10,8 +10,6 @@ const float D2R = PI / 180.0f;
 
 const float epsilon = 0.0001f;
 
-const float sqrt3 = std::sqrt(3);
-
 const int maxSteps = 1000000;
 
 DirectX::XMVECTOR warmUp[maxSteps];
@@ -28,7 +26,7 @@ int numFailsAxisAngle = 0;
 int main() {
 	// application: source for new target orientation
 
-	DirectX::XMFLOAT3 targetDirection = { -.0f / sqrt3, 1.0f / sqrt3, -.0f / sqrt3 };			// here only some value
+	DirectX::XMFLOAT3 targetDirection = { -1.0f, 1.0f, -1.0f };			// here only some value
 	float targetRotationAroundTargetDirection = 90.0f * D2R;
 
 
@@ -93,13 +91,13 @@ int main() {
 
 	// PREPARATION
 
-	DirectX::XMVECTOR targetModelOrientationDirection = XMLoadFloat3(&targetDirection);
+	DirectX::XMVECTOR targetModelOrientationDirection = DirectX::XMVector3Normalize(XMLoadFloat3(&targetDirection));
 
 	// assume current orientation is already storerd in a quaternion, thus not part of duration measurement, when using quaternions slerp
 	DirectX::XMVECTOR defaultModelOrientation = DirectX::XMQuaternionRotationNormal(modelOrientationDirection, modelOrientationTwist);
 
 
-	// BENCHMARK 1: quaternions and SLERP
+	// BENCHMARK 1: quaternions and slerp
 
 	now = std::chrono::high_resolution_clock::now();
 

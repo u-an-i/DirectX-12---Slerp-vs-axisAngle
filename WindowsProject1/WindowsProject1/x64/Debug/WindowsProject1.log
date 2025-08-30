@@ -420,26 +420,24 @@ C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\directxmath.h(289
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\directxmath.h(289,111): warning C4668: "__aarch64__" ist nicht als ein Präprozessormakro definiert, wird durch "0" für "#if/#elif" ersetzt
   (Quelldatei „WindowsProject1.cpp“ wird kompiliert)
   
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(13,30): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(13,19): warning C4244: "Initialisierung": Konvertierung von "double" in "const float", möglicher Datenverlust
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(147,81): warning C5246: „m128_f32“: Die Initialisierung eines Teilobjekts muss in geschweifte Klammern eingeschlossen werden
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(166,33): warning C5246: „m128_f32“: Die Initialisierung eines Teilobjekts muss in geschweifte Klammern eingeschlossen werden
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(224,17): warning C4552: ">>": Ergebnis des Ausdrucks nicht verwendet.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(82,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(145,81): warning C5246: „m128_f32“: Die Initialisierung eines Teilobjekts muss in geschweifte Klammern eingeschlossen werden
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(164,33): warning C5246: „m128_f32“: Die Initialisierung eines Teilobjekts muss in geschweifte Klammern eingeschlossen werden
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(222,17): warning C4552: ">>": Ergebnis des Ausdrucks nicht verwendet.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(80,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(81,1): warning C4702: Unerreichbarer Code
 C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(83,1): warning C4702: Unerreichbarer Code
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(85,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(84,1): warning C4702: Unerreichbarer Code
 C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(86,1): warning C4702: Unerreichbarer Code
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(88,1): warning C4702: Unerreichbarer Code
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(89,1): warning C4702: Unerreichbarer Code
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(203) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(200) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
-C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(175) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(87,1): warning C4702: Unerreichbarer Code
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(201,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(201,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(201) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(201,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(201) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(198,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(198,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(198) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(198,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(198) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(173,1): warning C5045: Der Compiler fügt die Spectre-Entschärfung für die Arbeitsspeicherauslastung ein, wenn die Option /Qspectre angegeben wird.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(173,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(173) : Hinweis: Der Bereich des Index "" wird durch Vergleich in dieser Zeile geprüft.
+C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(173,1): warning C5045: C:\Users\uani\Documents\VS Projects\WindowsProject1\WindowsProject1.cpp(173) : Hinweis: Fügt Aufruf in dieser Zeile hinzu.
 LINK : warning LNK4075: /INCREMENTAL wird aufgrund der Angabe von /LTCG ignoriert.
 WindowsProject1.obj : warning LNK4075: /EDITANDCONTINUE wird aufgrund der Angabe von /OPT:ICF ignoriert.
   LINK : /LTCG wurde angegeben, es ist jedoch keine Codegenerierung erforderlich. Entfernen Sie /LTCG aus der Linkbefehlszeile, um die Linkerleistung zu erhöhen.
